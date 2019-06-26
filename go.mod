@@ -22,6 +22,7 @@ require (
 	github.com/stoewer/go-strcase v1.0.2
 	github.com/stretchr/objx v0.1.1 // indirect
 	github.com/terraform-providers/terraform-provider-random v2.0.0+incompatible
+	golang.org/x/net v0.0.0-20190503192946-f4e77d36d62c
 	golang.org/x/oauth2 v0.0.0-20190604053449-0f29369cfe45
 	google.golang.org/api v0.6.0
 )
